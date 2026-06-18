@@ -1,0 +1,197 @@
+Shift::
+MouseClick, left,  193,  592
+Sleep, 50
+MouseClick, left,  107,  1004
+Sleep, 50
+MouseClick, left,  711,  347
+Sleep, 50
+Send, fat
+MouseClick, left,  718,  382
+Sleep, 150
+return
+
+F1::
+MouseClick, left,  192,  592
+Sleep, 50
+MouseClick, left,  99,  1002
+Sleep, 50
+MouseClick, right,  878,  578
+Sleep, 50
+MouseClick, left,  948,  592
+Sleep, 50
+return
+
+F2::
+MouseClick, left,  204,  592
+Sleep, 50
+MouseClick, left,  95,  1001
+Sleep, 50
+MouseClick, right,  886,  506
+Sleep, 50
+MouseClick, left,  971,  518
+Sleep, 50
+return
+
+F3::
+MouseClick, left,  192,  590
+Sleep, 50 
+MouseClick, left,  98,  1001
+Sleep, 50
+MouseClick, right,  845,  485
+Sleep, 50
+MouseClick, left,  955,  496
+Sleep, 50
+return
+
+F4::
+MouseClick, left,  192,  588
+Sleep, 50 
+MouseClick, left,  95,  1003
+Sleep, 50
+MouseClick, right,  860,  435
+Sleep, 50
+MouseClick, left,  944,  447
+Sleep, 50
+return
+
+F6::
+MouseClick, left,  193,  591
+Sleep, 50
+MouseClick, left,  114,  999
+Sleep, 50
+MouseClick, left,  1232,  665
+Sleep, 50
+MouseClick, left,  1232,  665
+Sleep, 50
+MouseClick, left,  1232,  665
+Sleep, 50
+MouseClick, left,  1232,  665
+Sleep, 50
+MouseClick, right,  887,  658
+Sleep, 50
+MouseClick, left,  981,  669
+return
+
+F7:: 
+MouseClick, left,  194,  481
+Sleep, 50 
+MouseClick, left,  115,  825
+Sleep, 50
+MouseClick, right,  681,  554
+Sleep, 50
+MouseClick, left,  780,  561
+Sleep, 50
+return
+
+
+"::
+MouseClick, left,  60,  752
+Sleep, 50
+MouseClick, left,  150,  798
+Sleep, 50
+Send, maa
+Sleep, 50
+MouseClick, left,  197,  827
+Sleep, 50
+MouseClick, left,  215,  761
+Sleep, 50 
+MouseClick, left,  900,  862
+Sleep, 50
+return
+
+F8::
+MouseClick, left,  64,  760
+Sleep, 100
+MouseClick, left,  150,  795
+Sleep, 100
+Send, 89 
+MouseClick, left,  209,  862
+Sleep, 100
+MouseClick, left,  209,  760
+Sleep, 100
+MouseClick, left,  896,  862
+Sleep, 100
+MouseClick, left,  207,  195
+Sleep, 100
+Send, 202214180
+MouseClick, left,  938,  194
+Sleep, 100
+MouseClick, left,  1768,  956
+return
+
+F9::
+MouseClick, left,  64,  760
+Sleep, 100
+MouseClick, left,  150,  795
+Sleep, 100
+Send, 89 
+MouseClick, left,  209,  862
+Sleep, 100
+MouseClick, left,  209,  760
+Sleep, 100
+MouseClick, left,  896,  862
+Sleep, 100
+MouseClick, left,  207,  195
+Sleep, 100
+Send, 202216796
+MouseClick, left,  938,  194
+Sleep, 100
+MouseClick, left,  1768,  956
+return
+
+F10::
+MouseClick, left,  64,  760
+Sleep, 100
+MouseClick, left,  150,  795
+Sleep, 100
+Send, 89 
+MouseClick, left,  209,  862
+Sleep, 100
+MouseClick, left,  209,  760
+Sleep, 100
+MouseClick, left,  896,  862
+Sleep, 100
+MouseClick, left,  207,  195
+Sleep, 100
+Send, 202219707
+MouseClick, left,  938,  194
+Sleep, 100
+MouseClick, left,  1768,  956
+return
+
+F11::
+MouseClick, left,  64,  760
+Sleep, 100
+MouseClick, left,  150,  795
+Sleep, 100
+Send, 89 
+MouseClick, left,  209,  862
+Sleep, 100
+MouseClick, left,  209,  760
+Sleep, 100
+MouseClick, left,  896,  862
+Sleep, 100
+MouseClick, left,  207,  195
+Sleep, 100
+Send, 202518708
+MouseClick, left,  938,  194
+Sleep, 100
+MouseClick, left,  1768,  956
+return
+
+F12::
+MouseClick, left,  72,  760
+Sleep, 50
+MouseClick, left,  164,  798
+Sleep, 50
+Send, muha
+MouseClick, left,  225,  826
+Sleep, 50
+MouseClick, left,  212,  759
+Sleep, 50
+MouseClick, left,  792,  866
+Sleep, 50
+MouseClick, left,  1775,  1001
+Sleep, 250
+MouseClick, left,  976,  592
+return
